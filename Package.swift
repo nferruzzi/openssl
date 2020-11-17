@@ -20,7 +20,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "openssl",
-//            path: "openssl.xcframework"),
             url: "https://wdy-backups.s3.eu-central-1.amazonaws.com/OpenSSL/openssl_1_1_1d.xcframework.zip",
             checksum: "aa4a87a444d1ca9b0b23ef1b66e6af6764bf789fd6d06bbeb97943bf638ce4b5"),
         .target(name: "OpenSSL",
