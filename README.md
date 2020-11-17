@@ -1,6 +1,6 @@
-# openssl.xcframework
+# openssl 1.1.1 for Swift 5.x
 
-## All inclusive Swift package to use OpenSSL 1.1.1d from Swift. 
+## All inclusive Swift package to use OpenSSL 1.1.1h from Swift. 
 
 The binary xcframework is provided via zip as required by Swift Package.
 
@@ -8,7 +8,7 @@ Included platforms: Mac (arm, x86), iOS, WatchOS, tvOS and simulators.
 
 This packages is a mix of other projects:
 
-1. XCFramework build script: https://github.com/adib/openssl-xcframeworks/tree/develop/BigSur 
+1. XCFramework build script: https://github.com/keeshux/openssl-apple 
 1. OpenSSL shim and inline functions: https://github.com/Kitura/OpenSSL
 
 Tips:
