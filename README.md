@@ -1,6 +1,6 @@
 # openssl 1.1.1 for Swift 5.x
 
-## All inclusive Swift package to import OpenSSL 1.1.1h from Swift. 
+## All inclusive Swift package to import OpenSSL 1.1.1h from Swift and ObjC. 
 
 The binary xcframework is provided via zip as required by Swift Package, built using the `openssl-apple` project.
 
