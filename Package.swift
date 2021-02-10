@@ -13,7 +13,7 @@ let package = Package(
         // OpenSSL libray, can be imported by swift
         .library(
             name: "OpenSSL",
-            targets: ["OpenSSL"]
+            targets: ["OpenSSL", "openssl"]
         )
     ],
     dependencies: [],
